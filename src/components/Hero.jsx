@@ -1,3 +1,4 @@
+// import SocialLinks from './SocialLinks'
 export default function Hero() {
   return (
     <section id="home" className="pt-32 pb-20 px-6">
@@ -11,6 +12,7 @@ export default function Hero() {
             Specializing in Web developing and Web Logic. 
             I build functional, logic-driven applications that solve real-world scheduling problems.
           </p>
+          
           <div className="flex gap-4">
             <a href="#projects" className="bg-cyan-500 hover:bg-cyan-600 text-slate-950 px-8 py-3 rounded-full font-bold transition shadow-lg shadow-cyan-500/20">
               View My Work
