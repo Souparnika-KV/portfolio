@@ -22,7 +22,8 @@ The highlight of this portfolio is the **Event Allocation & Registration System*
 * **Dynamic Event Allocation:** Showcases logic for managing hall availability and time slots.
 * **Interactive About Section:** Uses React state to toggle between Skills, Experience, and Education.
 * **Responsive Project Grid:** A clean layout that adapts to different screen sizes.
-* **Clean Light Theme:** Optimized for professional readability with a focus on typography and whitespace.
+* **Component-Based Architecture:** Reusable React components for scalability.
+* **Social Integration:** Linked GitHub and LinkedIn profiles via custom icons.
 
 ## 📂 Project Structure
 
