@@ -7,11 +7,9 @@ export default function Contact() {
           I'm currently looking for new opportunities. My inbox is always open!
         </p>
         <a 
-          href="mailto:souparnikakv21@mail.com" 
+          href="mailto: souparnikakv21@mail.com" 
           className="text-2xl md:text-4xl font-medium text-cyan-400 hover:text-cyan-300 underline underline-offset-8 transition"
-        >
-          souparnikakv21@gmail.com
-        </a>
+        >souparnikakv21@gmail.com</a>
         <div className="flex justify-center gap-8 mt-16 text-slate-500">
           <a href="#" className="hover:text-white transition">LinkedIn</a>
           <a href="#" className="hover:text-white transition">GitHub</a>

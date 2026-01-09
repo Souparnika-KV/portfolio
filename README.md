@@ -1,52 +1,34 @@
-# Souparnika's Portfolio
 
-Welcome to my professional portfolio! This website showcases my journey as a Computer Science student, focusing on logic-driven applications, clean UI/UX, and complex scheduling systems.
+# 🚀 Personal Portfolio
 
-## 🛠 Tech Stack
+### **Live URL:** [https://your-deployment-link.vercel.app](https://www.google.com/url?sa=E&source=gmail&q=https://your-deployment-link.vercel.app)
 
-* **Frontend:** React.js, Tailwind CSS
-* **Icons & Assets:** Lucide React, FontAwesome
-* **Deployment:** Vercel / Netlify (change this to your host)
+## 📌 Project Description
 
-## 📁 Projects Featured
+This is a fully responsive personal portfolio website developed as a Computer Science student. The primary goal of this project is to showcase my technical skills, educational background, and recent development projects.
 
-### 1. Event Allocation & Registration System 📅
+The highlight of this portfolio is the **Event Allocation & Registration System**, a complex application that solves scheduling conflicts for university departments. The website is built with a mobile-first approach, ensuring a seamless user experience across desktops, tablets, and smartphones.
 
-* **The Problem:** Overlapping hall bookings in university departments.
-* **The Solution:** A dynamic booking engine with conflict-detection logic.
-* **Highlights:** Uses state-based validation to ensure halls aren't double-booked.
+## 🛠 Tech Stack Used
 
-### 2. Registration Portal 📝
+* **Core Framework:** React JS (Vite)
+* **Styling:** Tailwind CSS (Modern Utility-First Framework)
+* **Icons:** Lucide-React / FontAwesome
+* **Deployment:** Vercel
+* **Version Control:** Git & GitHub
 
-* **The Problem:** Managing user data and input validation.
-* **The Solution:** A secure, responsive form that handles user registration and data formatting.
-* **Highlights:** Real-time form validation and clean error handling.
+## 🌟 Key Features
 
-### 3. Tic-Tac-Toe Game 🎮
+* **Dynamic Event Allocation:** Showcases logic for managing hall availability and time slots.
+* **Interactive About Section:** Uses React state to toggle between Skills, Experience, and Education.
+* **Responsive Project Grid:** A clean layout that adapts to different screen sizes.
+* **Clean Light Theme:** Optimized for professional readability with a focus on typography and whitespace.
 
-* **The Problem:** Managing complex game states and win-loss algorithms.
-* **The Solution:** A React-based game engine.
-* **Highlights:** Implements a minimax-style logic for winner detection.
+## 📂 Project Structure
 
----
-
-## 🏗️ Architecture
-
-This portfolio is built with a **component-based architecture**:
-
-* `Navbar.jsx`: Sticky navigation with smooth scroll anchors.
-* `Hero.jsx`: Intro with professional branding.
-* `About.jsx`: Tab-based interface for Skills/Education.
-* `Projects.jsx`: Dynamic mapping of project data into responsive cards.
+* `Hero`: Introduction and professional branding.
+* `About`: Detailed background with interactive tabs.
+* `Projects`: A collection of 3+ projects including the Event System, Registration Form, and Games.
+* `Contact`: Information for professional inquiries and networking.
 
 
-
-## Tech Stack
-- React JS
-- Tailwind CSS
-- Vite
-
-## Live URL
-https://souparnika-portfolio.vercel.app
-
-Made by Souparnika - KTU CS Student
