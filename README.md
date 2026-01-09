@@ -1,7 +1,7 @@
 
 # 🚀 Personal Portfolio
 
-### **Live URL:** [https://portfolio-git-main-souparnika-kvs-projects.vercel.app](https://www.google.com/url?sa=E&source=gmail&q=https://your-deployment-link.vercel.app)
+### **Live URL:** [https://portfolio-3ymffkevp-souparnika-kvs-projects.vercel.app/](https://www.google.com/url?sa=E&source=gmail&q=https://your-deployment-link.vercel.app)
 
 ## 📌 Project Description
 
