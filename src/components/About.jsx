@@ -24,8 +24,9 @@ export default function About() {
           <h3 className="text-cyan-500 font-mono mb-2">My Journey</h3>
           <h2 className="text-4xl font-bold text-white mb-6">About Me</h2>
           <p className="text-slate-400 leading-relaxed mb-6">
-            I am a CS student with a passion for building systems that make life easier. 
-            My biggest project to date is an **Event Allocation & Registration Website** that manages departmental halls and time slots dynamically.
+             I am Souparnika KV, a B.Tech Computer Science student at Rajiv Gandhi Institute of Technology, Kottayam. I have a strong interest in software development and enjoy building practical applications using Java, C, Python, HTML, Flask, MySQL, and React.
+
+             I am currently exploring full-stack web development and core computer science subjects like Operating Systems, DBMS, and Data Structures. I enjoy learning by building projects and continuously improving my problem-solving and programming skills. I am eager to gain real-world experience through internships and collaborative projects.
           </p>
           <p className="text-slate-400 leading-relaxed mb-8">
             I enjoy the challenge of solving scheduling conflicts and building clean, 

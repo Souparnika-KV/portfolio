@@ -1,4 +1,5 @@
-// import SocialLinks from './SocialLinks'
+// import SocialLinks from './SocialLinks
+import { Download } from 'lucide-react';
 export default function Hero() {
   return (
     <section id="home" className="pt-32 pb-20 px-6">
@@ -17,6 +18,12 @@ export default function Hero() {
             <a href="#projects" className="bg-cyan-500 hover:bg-cyan-600 text-slate-950 px-8 py-3 rounded-full font-bold transition shadow-lg shadow-cyan-500/20">
               View My Work
             </a>
+            <a 
+            href="/Resume.pdf" 
+            download 
+            className="border border-cyan-400 text-cyan-400 px-8 py-3 rounded-full hover:bg-cyan-400/10 transition flex items-center gap-2 font-bold"
+          >
+            Download CV <Download size={18} /></a>
             <a href="#contact" className="border border-slate-700 hover:bg-slate-800 text-white px-8 py-3 rounded-full font-bold transition">
               Let's Talk
             </a>

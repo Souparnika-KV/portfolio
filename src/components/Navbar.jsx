@@ -7,9 +7,11 @@ export default function Navbar() {
         </span>
         <div className="hidden md:flex gap-8 text-sm font-medium">
           <a href="#home" className="hover:text-cyan-400 transition">Home</a>
+          <a href="#about" className="hover:text-cyan-400 transition">About Me</a>
           <a href="#projects" className="hover:text-cyan-400 transition">Projects</a>
           <a href="#contact" className="hover:text-cyan-400 transition">Contact</a>
-        </div>
+         </div>
+        
       </div>
     </nav>
   );
