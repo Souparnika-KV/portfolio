@@ -1,7 +1,7 @@
 
 #  Personal Portfolio 
 
-### **Live URL:** [https://portfolio-3ymffkevp-souparnika-kvs-projects.Z.app/](https://portfolio-3ymffkevp-souparnika-kvs-projects.vercel.app/)
+### **Live URL:** [https://portfolio-2ins8vwwc-souparnika-kvs-projects.vercel.app/](https://portfolio-2ins8vwwc-souparnika-kvs-projects.vercel.app/)
 
 ## 📌 Project Description
 
