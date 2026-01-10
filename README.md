@@ -32,7 +32,4 @@ The highlight of this portfolio is the **Event Allocation & Registration System*
 * `Projects`: A collection of 3+ projects including the Event System, Registration Form, and Games.
 * `Contact`: Information for professional inquiries and networking.
 
-## 💻 How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone [[https://github.com/Souparnika-KV/portfolio](https://github.com/Souparnika-KV/portfolio)]
+
