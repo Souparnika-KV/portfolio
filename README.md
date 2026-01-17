@@ -1,13 +1,13 @@
 # 🚀 Personal Portfolio | Souparnika KV
 
-A professional, fully responsive personal portfolio website designed to showcase my journey as a Computer Science student and a Full-Stack Developer.
+A modern, fully responsive personal portfolio built with **React JS** and **Tailwind CSS**. This project showcases my skills, educational background, and technical projects as a Computer Science student.
 
 ### 🔗 [Live Demo](https://portfolio-5ddvf239z-souparnika-kvs-projects.vercel.app/) | [GitHub Repository](https://github.com/Souparnika-KV/portfolio)
 
 ---
 
 ## 📌 Project Overview
-This portfolio serves as a central hub for my technical work. It features a modern dark-themed UI with smooth navigation and a focus on high-performance web logic.
+This portfolio is a professional representation of my journey in software development. Built with a focus on clean code and user experience, it highlights my ability to create responsive, logic-driven frontends.It features a modern dark-themed UI with smooth navigation and a focus on high-performance web logic.
 
 ## 🛠 Tech Stack
 * **Frontend:** React.js (Vite), Tailwind CSS
