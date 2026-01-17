@@ -5,16 +5,17 @@ export default function About() {
   const [activeTab, setActiveTab] = useState('skills');
 
   const content = {
-    skills: [
-      { name: "Frontend", details: "React.js, Tailwind CSS, JavaScript (ES6+)" },
-      { name: "Logic & Backend", details: "Event Allocation Algorithms, Conflict Management" },
-      { name: "Tools", details: "Git, GitHub, VS Code, Figma" }
-    ],
-    education: [
-      { name: "Bachelor of Computer Science", details: "RIT • 2023 - Present" },
-      { name: "Key Coursework", details: "Data Structures, Algorithms, Web Development" }
-    ]
-  };
+  skills: [
+    { name: "Frontend Development", details: "React.js, Tailwind CSS, JavaScript , HTML5/CSS3" },
+    { name: "Backend & Database", details: "Node.js, Express, MySQL,MongoDB,PostgreSQL" },
+    { name: "Programming", details: "JavaScript, Java, C, Python" },
+    { name: "Software Tools", details: "Git, GitHub,Vercel, Postman (API Testing), VS Code" }
+  ],
+  education: [
+    { name: "B.Tech in Computer Science", details: "Rajiv Gandhi Institute of Technology • 2023 - Present" },
+    { name: "Relevant Coursework", details: "Data Structures, Database Management (DBMS), Operating Systems" }
+  ]
+};
 
   return (
     <section id="about" className="py-20 px-6 bg-slate-900/30">
@@ -24,9 +25,7 @@ export default function About() {
           <h3 className="text-cyan-500 font-mono mb-2">My Journey</h3>
           <h2 className="text-4xl font-bold text-white mb-6">About Me</h2>
           <p className="text-slate-400 leading-relaxed mb-6">
-             I am Souparnika KV, a B.Tech Computer Science student at Rajiv Gandhi Institute of Technology, Kottayam. I have a strong interest in software development and enjoy building practical applications using Java, C, Python, HTML, Flask, MySQL, and React.
-
-             I am currently exploring full-stack web development and core computer science subjects like Operating Systems, DBMS, and Data Structures. I enjoy learning by building projects and continuously improving my problem-solving and programming skills. I am eager to gain real-world experience through internships and collaborative projects.
+             I am a B.Tech Computer Science student at RIT Kottayam, focused on building data-driven web applications. My technical expertise includes developing frontends with React and backends with Node.js and MongoDB. I am particularly interested in how efficient backend logic and database indexing can improve application performance. Currently, I am applying these skills to solve complex scheduling and registration problems through my academic projects.
           </p>
           <p className="text-slate-400 leading-relaxed mb-8">
             I enjoy the challenge of solving scheduling conflicts and building clean, 
