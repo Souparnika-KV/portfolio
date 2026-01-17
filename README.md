@@ -7,12 +7,10 @@ A professional, fully responsive personal portfolio website designed to showcase
 ---
 
 ## 📌 Project Overview
-This portfolio serves as a central hub for my technical work. It features a modern dark-themed UI with smooth navigation and a focus on high-performance web logic. The project highlights my ability to build clean frontends while maintaining efficient backends.
+This portfolio serves as a central hub for my technical work. It features a modern dark-themed UI with smooth navigation and a focus on high-performance web logic.
 
 ## 🛠 Tech Stack
 * **Frontend:** React.js (Vite), Tailwind CSS
-* **Backend:** Node.js, Express.js
-* **Database:** MongoDB (NoSQL)
 * **Animations:** Framer Motion
 * **Icons:** Lucide-React
 * **Deployment:** Vercel
