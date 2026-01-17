@@ -2,7 +2,7 @@
 
 A professional, fully responsive personal portfolio website designed to showcase my journey as a Computer Science student and a Full-Stack Developer.
 
-### 🔗 [Live Demo](https://portfolio-2ins8vwwc-souparnika-kvs-projects.vercel.app/) | [GitHub Repository](https://github.com/Souparnika-KV/your-repo-name)
+### 🔗 [Live Demo](https://portfolio-2ins8vwwc-souparnika-kvs-projects.vercel.app/) | [GitHub Repository](https://github.com/Souparnika-KV/portfolio)
 
 ---
 
